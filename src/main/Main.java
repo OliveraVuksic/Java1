@@ -7,9 +7,12 @@ public class Main {
 
 //            Television chanell = new Television(56, 6, true);
 //            chanell.showChanell();
+//            
+//            Television chanell = new Television();
+//            chanell.showChanell();
             
-            Television chanell = new Television();
-            chanell.showChanell();
+            Radio frekvence = new Radio();
+            frekvence.chowRadioChanell();
     }
     
 }
